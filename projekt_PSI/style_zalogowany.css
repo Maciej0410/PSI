@@ -1,0 +1,25 @@
+body{
+	background-color: #008B8B;
+}
+#nag{
+	text-align: center;
+	
+}
+#lewa{
+	font-size: 20px;
+}
+#lista_kursow{
+	text-align: center;
+	font-size: 20px;
+}
+table{
+	margin-left: 450px;
+	font-size: 20px
+}
+h2{
+	text-align: center;
+	margin-right: 280px;
+}
+td{
+	border: 1px solid black;
+}
